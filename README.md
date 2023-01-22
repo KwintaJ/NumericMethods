@@ -10,4 +10,4 @@ Jan Kwinta
 **Zadanie09:** Interpolacja splajnem kubicznym  
 **Zadanie11:** Wzór trapezów i metoda Romberga  
 **Zadanie13:** Szukanie miejsc wielomianów metodą Laguerre'a  
-**Zadanie17:** Wyznaczanie minimum funkcji dwóch zmiennych  
+**Zadanie17:** Wyznaczanie minimum funkcji - metoda Levenberga–Marquardta  
